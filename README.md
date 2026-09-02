@@ -19,3 +19,7 @@ new projects.
 
 See the pinned repositories below for real, shipped projects — commit
 history included.
+
+## License
+
+&copy; Stam. All rights reserved.
