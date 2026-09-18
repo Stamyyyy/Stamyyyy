@@ -5,7 +5,7 @@ applications — commissioned client work delivered, and currently open for
 new projects.
 
 - **Portfolio:** [stam-console.web.app](https://stam-console.web.app)
-- **Email:** stamsbuisness@gmail.com
+- **Email:** **OUT OF SERVICE**
 - **GitHub:** [github.com/Stamyyyy](https://github.com/Stamyyyy)
 
 ## What I build
