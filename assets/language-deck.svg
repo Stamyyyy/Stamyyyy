@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 316" role="img" aria-labelledby="title desc">
+  <title id="title">Language deck</title>
+  <desc id="desc">Colorful tiles for C++, Java, Python, JavaScript, HTML, CSS, Lua, and PowerShell.</desc>
+  <rect width="1200" height="316" fill="#11111b"/>
+  <text x="44" y="45" fill="#cdd6f4" font-family="monospace" font-size="18" letter-spacing="4">LANGUAGE DECK // SIGNALS I SPEAK</text>
+  <g font-family="monospace" font-weight="700">
+    <g transform="translate(44 72)"><rect width="266" height="86" rx="10" fill="#00599c"/><text x="20" y="47" fill="white" font-size="29">C++</text><text x="20" y="70" fill="#b9dcff" font-size="13">NATIVE / SYSTEMS</text></g>
+    <g transform="translate(326 72)"><rect width="266" height="86" rx="10" fill="#f89820"/><text x="20" y="47" fill="#251400" font-size="29">JAVA</text><text x="20" y="70" fill="#633600" font-size="13">OBJECTS / LOGIC</text></g>
+    <g transform="translate(608 72)"><rect width="266" height="86" rx="10" fill="#3776ab"/><text x="20" y="47" fill="white" font-size="29">PYTHON</text><text x="20" y="70" fill="#c4e5ff" font-size="13">AUTOMATION / TOOLS</text></g>
+    <g transform="translate(890 72)"><rect width="266" height="86" rx="10" fill="#f7df1e"/><text x="20" y="47" fill="#11111b" font-size="29">JS</text><text x="20" y="70" fill="#655900" font-size="13">WEB / INTERACTION</text></g>
+    <g transform="translate(44 178)"><rect width="266" height="86" rx="10" fill="#e34f26"/><text x="20" y="47" fill="white" font-size="29">HTML</text><text x="20" y="70" fill="#ffd3c6" font-size="13">STRUCTURE / CONTENT</text></g>
+    <g transform="translate(326 178)"><rect width="266" height="86" rx="10" fill="#1572b6"/><text x="20" y="47" fill="white" font-size="29">CSS</text><text x="20" y="70" fill="#c7e8ff" font-size="13">LAYOUT / MOTION</text></g>
+    <g transform="translate(608 178)"><rect width="266" height="86" rx="10" fill="#2c2d72"/><text x="20" y="47" fill="white" font-size="29">LUA</text><text x="20" y="70" fill="#d4d4ff" font-size="13">ROBLOX / RUNTIME</text></g>
+    <g transform="translate(890 178)"><rect width="266" height="86" rx="10" fill="#5391fe"/><text x="20" y="47" fill="white" font-size="29">PS</text><text x="20" y="70" fill="#d7e7ff" font-size="13">WINDOWS / WORKFLOW</text></g>
+  </g>
+</svg>
