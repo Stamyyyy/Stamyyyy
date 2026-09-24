@@ -1,25 +1,35 @@
-# Hi, I'm Stam
+<p align="center">
+  <img src="./assets/stam-signal.svg" alt="STAM — software, systems and interfaces" width="100%" />
+</p>
 
-Full-stack developer building Discord bots, web apps & databases, and desktop
-applications — commissioned client work delivered, and currently open for
-new projects.
+<p align="center">
+  Independent developer making <strong>tools with texture</strong> — Discord systems, web apps, desktop software, and Roblox Studio work that feels considered from the first click.
+</p>
 
-- **Portfolio:** [stam-console.web.app](https://stam-console.web.app)
-- **Email:** **OUT OF SERVICE**
-- **GitHub:** [github.com/Stamyyyy](https://github.com/Stamyyyy)
+<p align="center">
+  <a href="https://stam-console.web.app">Portfolio</a> &nbsp;•&nbsp; <a href="https://github.com/Stamyyyy">GitHub</a>
+</p>
 
-## What I build
+---
 
-- Discord bots & integrations — recruitment/faction systems, staff tools, automation
-- Web apps & databases — structured backend tools for real, ongoing use
-- Desktop applications — native-feeling apps with real UI polish
-- Full-stack, start to finish — I'd rather own the whole build than hand off half of it
+## Selected systems
 
-## Pinned work
+| Build | Signal |
+| :-- | :-- |
+| [Cartographer](https://github.com/Stamyyyy/cartographer) | Roblox Studio tooling for mission zones, team-safe spawns, objectives, and runtime policies. |
+| [Revenant](https://github.com/Stamyyyy/revenant) | A Windows Explorer replacement built around raw NTFS MFT indexing, live browsing, and a recovery-first approach. |
+| [Phantom](https://github.com/Stamyyyy/phantom) | Screenshot capture and annotation with a proper post-capture editor, OCR, and useful save rules. |
+| [Frontline: Shattered Steel](https://github.com/Stamyyyy/frontline-shattered-steel) | Discord infrastructure and a companion site for a Roblox WWII tactical-warfare community. |
+| [stam-console](https://github.com/Stamyyyy/stam-console) | The portfolio itself — an archive of projects, experiments, and the way I approach interface work. |
 
-See the pinned repositories below for real, shipped projects — commit
-history included.
+## What I’m here for
 
-## License
+I build the whole thing when it needs building: the workflow, UI, backend, edge cases, and the bit that makes somebody want to keep using it. I’m especially drawn to software that is practical, personal, and a little more alive than it has to be.
 
-&copy; Stam. All rights reserved.
+`Discord infrastructure` &nbsp; `web tools` &nbsp; `desktop utilities` &nbsp; `Roblox Studio` &nbsp; `interface systems`
+
+## Now
+
+Working independently, making specific software, and open to the right commission or collaboration. The best place to see the current signal is [stam-console.web.app](https://stam-console.web.app).
+
+<sub>© Stam. All rights reserved.</sub>

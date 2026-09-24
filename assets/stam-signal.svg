@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">STAM</title>
+  <desc id="desc">An abstract dark signal banner for Stam's GitHub profile.</desc>
+  <rect width="1200" height="360" fill="#11111b"/>
+  <path d="M0 274H184L254 204H425L506 285H713L821 177H1200" fill="none" stroke="#cba6f7" stroke-width="2" opacity=".9"/>
+  <path d="M0 302H238L306 234H459L526 301H765L876 190H1200" fill="none" stroke="#89b4fa" stroke-width="1" opacity=".55"/>
+  <g fill="#313244" opacity=".8">
+    <circle cx="184" cy="274" r="5"/><circle cx="254" cy="204" r="5"/><circle cx="506" cy="285" r="5"/>
+    <circle cx="713" cy="285" r="5"/><circle cx="821" cy="177" r="5"/><circle cx="876" cy="190" r="5"/>
+  </g>
+  <g fill="#cdd6f4" font-family="JetBrains Mono, Cascadia Mono, monospace">
+    <text x="64" y="92" font-size="18" letter-spacing="5" fill="#a6adc8">INDEPENDENT BUILDER // 2026</text>
+    <text x="56" y="226" font-size="170" font-weight="700" letter-spacing="-12">STAM</text>
+    <text x="67" y="269" font-size="20" letter-spacing="2" fill="#89b4fa">SOFTWARE / SYSTEMS / INTERFACES</text>
+  </g>
+  <text x="1135" y="72" text-anchor="end" fill="#cba6f7" font-family="JetBrains Mono, Cascadia Mono, monospace" font-size="16">◈ 01</text>
+</svg>
